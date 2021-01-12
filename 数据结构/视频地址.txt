@@ -1,0 +1,6 @@
+
+背包九讲：https://www.bilibili.com/video/BV1qt411Z7nE?from=search&seid=4752825884826374511
+
+
+该B站视频作者是闫学灿，NOI金牌获得者，保送北大计算机系，创建的AcWing算法平台（类似leetcode），
+会讲解一些刷题的套路，也可根据AcWing来学习算法
